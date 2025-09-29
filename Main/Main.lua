@@ -1,1 +1,1 @@
-local library = loadstring(game:HttpGet("https://github.com/WetCheezit/UI-Libs/blob/main/Exodus.lua?raw=true"))()
+local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/TheoTheEpic/AquaLib/main/AquaLib.lua'))()
