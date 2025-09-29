@@ -1,2 +1,1 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/alixjaffar/Roblox-UI-Library/main/main.lua", true))()
-local Window = Library:CreateWindow"Example UI"
+local library = loadstring(game:HttpGet("https://github.com/WetCheezit/UI-Libs/blob/main/Exodus.lua?raw=true"))()
